@@ -6,5 +6,12 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="BEGINNER"/>
+	<classpathentry kind="src" path="AD-HOC"/>
+	<classpathentry kind="src" path="STRINGS"/>
+	<classpathentry kind="src" path="DATA STRUCTURES AND LIBRARIES"/>
+	<classpathentry kind="src" path="MATHEMATICS"/>
+	<classpathentry kind="src" path="PARADIGMS"/>
+	<classpathentry kind="src" path="GRAPH"/>
+	<classpathentry kind="src" path="COMPUTATIONAL GEOMETRY"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
